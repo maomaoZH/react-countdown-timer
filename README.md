@@ -1,4 +1,4 @@
-# react-countdonw-timer
+# react-countdonw-timer-component
 
 This is a react UI component of displaying countdown timer
 
