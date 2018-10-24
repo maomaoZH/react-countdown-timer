@@ -4,6 +4,7 @@ This is a react UI component of displaying countdown timer
 
 ## demo
 
+<img src="https://github.com/maomaoZH/countdown-timer/blob/master/demo.gif" alt="demo" />
 You can find deployed demo version here: https://maomaozh.github.io/countdown-timer/
 
 ## Installation
