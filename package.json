@@ -1,5 +1,5 @@
 {
-  "name": "react-countdown-timer",
+  "name": "react-countdown-timer-component",
   "version": "1.0.0",
   "description": "react UI component to display time countdown",
   "main": "./lib/CountdownTimer.jsx",
