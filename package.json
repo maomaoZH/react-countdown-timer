@@ -1,0 +1,16 @@
+{
+  "name": "react-countdown-timer",
+  "version": "1.0.0",
+  "description": "react UI component to display time countdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "countdown",
+    "timer"
+  ],
+  "author": "mzhang",
+  "license": "MIT"
+}
