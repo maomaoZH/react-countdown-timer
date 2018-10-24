@@ -2,15 +2,37 @@
   "name": "react-countdown-timer",
   "version": "1.0.0",
   "description": "react UI component to display time countdown",
-  "main": "index.js",
+  "main": "./lib/CountdownTimer.jsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaoZH/react-countdown-timer.git"
   },
   "keywords": [
     "react",
     "countdown",
     "timer"
   ],
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  },
   "author": "mzhang",
   "license": "MIT"
 }
