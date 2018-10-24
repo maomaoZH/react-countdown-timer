@@ -25,7 +25,7 @@ npm install react-countdown-timer
 ```js
 import React from "react";
 import { render } from "react-dom";
-import CountdownTimer from "react-countdown-timer";
+import CountdownTimer from "react-countdown-timer-component";
 
 render(
   <CountdownTimer
@@ -41,7 +41,7 @@ render(
 
 ##### `seconds`: number
 
-overall countdown seconds. This props is required. 
+overall countdown seconds. This props is required.
 
 ##### `isDisplayEndTime`: bool
 
